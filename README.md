@@ -104,7 +104,7 @@ Protocolos Y Delegados
 </p>
 
 <p align="justify">
-	El protocolo en Desarrollo Móvil para ser más demostrativo.
+	Pusimos el protocolo, regla, política en Desarrollo Móvil para ser más demostrativo pero...
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Protocolos Y Delegados
 </p>
 
 <p align="justify">
-	Pero ahora lo podemos regresar a Recursos Humanos.
+	Lo podemos regresar a Recursos Humanos.
 </p>
 
 <p align="center">
