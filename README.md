@@ -120,7 +120,7 @@ Protocolos Y Delegados
 </p>
 
 <p align="justify">
-	Recordemos que le estamos preguntando al mensajero cómo ir vestidos dentro del constructor de Desarrollo Móvil y la primera función que se ejecuta por defectoal correr Xcode es viewDidLoad() de ViewController, entonces dentro de ésa función vamos a instanciar DepartamentoDesarrolloMovil() para que al instanciar entre al constructor y ejecute las preguntas al mensajero.
+	La primera función que se ejecuta por defecto al ejecutar Xcode es viewDidLoad() de ViewController, entonces dentro de ésa función vamos a instanciar DepartamentoDesarrolloMovil() para que al instanciar entre al constructor y ejecute las preguntas al mensajero.
 </p>
 
 <p align="center">
