@@ -35,6 +35,10 @@ Protocolos Y Delegados
 	<img src="imgs/img3.png" width="720px" height="450px">
 </p>
 
+<p align="justify">
+	Creamos el departamento de Desarrollo Móvil.
+</p>
+
 <p align="center">
 	<img src="imgs/img4.png" width="720px" height="450px">
 </p>
@@ -47,8 +51,16 @@ Protocolos Y Delegados
 	<img src="imgs/img6.png" width="720px" height="450px">
 </p>
 
+<p align="justify">
+	Creamos el protocolo como nos otros lo necesitamos.
+</p>
+
 <p align="center">
 	<img src="imgs/img7.png" width="720px" height="450px">
+</p>
+
+<p align="justify">
+	Creamos el departamento de Recursos Humanos.
 </p>
 
 <p align="center">
@@ -59,32 +71,70 @@ Protocolos Y Delegados
 	<img src="imgs/img9.png" width="720px" height="450px">
 </p>
 
+<p align="justify">
+	Especificamos que el departemento de Recursos Humanos <b>implementará</b> cómo es que nos debemos vestir. Implementará el protocolo.
+</p>
+
 <p align="center">
 	<img src="imgs/img10.png" width="720px" height="450px">
+</p>
+
+<p align="justify">
+	Hacemos la implementación.
 </p>
 
 <p align="center">
 	<img src="imgs/img11.png" width="720px" height="450px">
 </p>
 
+<p align="justify">
+	En el departamento de Desarrollo Móvil mandamos a llamar a un <i>Godinez</i> que viene de <i>Recursos Humanos</i> para qué nos diga cómo vestirnos.	
+</p>
+
 <p align="center">
 	<img src="imgs/img12.png" width="720px" height="450px">
+</p>
+
+<p align="justify">
+	Le preguntamos a <i>Godinez</i> cómo nos vestimos en base al día y al sexo.
 </p>
 
 <p align="center">
 	<img src="imgs/img13.png" width="720px" height="450px">
 </p>
 
+<p align="justify">
+	El protocolo en Desarrollo Móvil para ser más demostrativo.
+</p>
+
 <p align="center">
 	<img src="imgs/img14.png" width="720px" height="450px">
+</p>
+
+<p align="justify">
+	Pero ahora lo podemos regresar a Recursos Humanos.
 </p>
 
 <p align="center">
 	<img src="imgs/img15.png" width="720px" height="450px">
 </p>
 
+<p align="justify">
+	Recordemos que le estamos preguntando al mensajero cómo ir vestidos dentro del constructor de Desarrollo Móvil y la primera función que se ejecuta por defectoal correr Xcode es viewDidLoad() de ViewController, entonces dentro de ésa función vamos a instanciar DepartamentoDesarrolloMovil() para que al instanciar entre al constructor y ejecute las preguntas al mensajero.
+</p>
+
 <p align="center">
 	<img src="imgs/img16.png" width="720px" height="450px">
+</p>
+
+<p align="justify">
+	Corremos el proyecto y cómo podemos ver sólo teniendo una persona (Godinez) del departamento de Recursos Humanos que tiene el contrato, protocolo, regla, política de vestimenta y su implementación, podemos saber como ir vestidos.
+</p>
+
+## Resumen
+
+<p align="justify">
+	De esta manera un objeto grande puede tener muchos organos que lo complementen, sin preocuparse como implementar todos estos métodos, sólo viendo qué le tenemos qué pasar a estos métodos.
 </p>
 
 <p align="center">
