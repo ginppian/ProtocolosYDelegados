@@ -144,3 +144,5 @@ Protocolos Y Delegados
 ## Fuentes
 
 * <a href="http://www.cristalab.com/tutoriales/programacion-orientada-a-objetos-asociacion-vs-composicion-c89337l/">POO Asociación vs. Composición</a>
+
+* <a href="https://www.youtube.com/watch?v=D_LjBIJ9Fq4">Protocolos y Delegados Swift - Ejemplo Empresa Motores</a>
