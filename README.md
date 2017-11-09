@@ -15,7 +15,7 @@ Protocolos Y Delegados
 </p>
 
 <p align="center">
-	<img src="" width="720px" height="450px">
+	<img src="imgs/img1.png" width="720px" height="450px">
 </p>
 
 ## Fuentes
