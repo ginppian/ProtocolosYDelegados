@@ -128,7 +128,7 @@ Protocolos Y Delegados
 </p>
 
 <p align="justify">
-	Corremos el proyecto y cómo podemos ver sólo teniendo una persona (Godinez) del departamento de Recursos Humanos que tiene el contrato, protocolo, regla, política de vestimenta y su implementación, podemos saber como ir vestidos.
+	Corremos el proyecto y cómo podemos ver sólo teniendo una persona (Godinez) podemos saber como ir vestidos.
 </p>
 
 ## Resumen
